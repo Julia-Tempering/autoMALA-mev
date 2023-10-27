@@ -14,7 +14,8 @@ The `nextflow.config` file instructs Nextflow to use Apptainer with a custom Doc
 ```
 where `[CLUSTER_PROFILE]` currently supports
 - `sockeye`: UBC ARC sockeye cluster
-- `CC`: Alliance Canada
+- `CC`: Digital Research Alliance of Canada (formerly Compute Canada)
+
 **Important**: remember to fill the `clusterOptions` variable in `nextflow.config` with your credentials.
 
 ### Local

@@ -1,4 +1,4 @@
-# AutoMALA tests scripts
+# autoMALA tests scripts
 
 [Nextflow](https://www.nextflow.io/) scripts for the experiments in 
 

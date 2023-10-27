@@ -2,7 +2,7 @@
 
 [Nextflow](https://www.nextflow.io/) scripts for the experiments in 
 
-Biron-Lattes, M., Surjanovic, N.,  Syed, S., Campbell, T., & Bouchard-Côté, A. (2023). autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm. *arXiv preprint arXiv:2310.16782*.
+Biron-Lattes, M., Surjanovic, N.,  Syed, S., Campbell, T., & Bouchard-Côté, A. (2023). autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm. [*arXiv preprint arXiv:2310.16782*](https://arxiv.org/abs/2310.16782).
 
 ## Usage
 

@@ -1,0 +1,15 @@
+work/*
+.nextflow*
+Manifest.toml
+.vscode/
+depot/
+temp.jl
+tmp/
+.depot/
+hs_err_pid*
+replay_pid*
+*.hpp
+*.so
+*lock*
+.Rhistory
+
